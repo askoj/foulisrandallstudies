@@ -1,0 +1,3 @@
+[submodule "qogpsi/networkx_mod/networkx_mod"]
+	path = qogpsi/networkx_mod/networkx_mod
+	url = https://github.com/networkx/networkx
